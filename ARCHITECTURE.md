@@ -13,8 +13,8 @@
 | **Student A (Role A)** | `Guy Gabi Kikozashvili` | `Guy.Kikozashvil@e.braude.ac.il` |
 | **Student B (Role B)** | `Lior Shor`             | `Lior.Shor@e.braude.ac.il`| 
 
-* **Group Number:** `G[XX]`
-* **GitHub Repository URL:** `https://github.com/[Username]/Ex4_SmartParking_Design`
+* **Group Number:** `G[13]`
+* **GitHub Repository URL:** `https://github.com/liorshor27/Ex4_SmartParking_Design`
 
 ---
 
