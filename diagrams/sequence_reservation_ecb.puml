@@ -12,7 +12,7 @@ UI -> Ctrl : reserveSpot(userId, "EV-04", "12-345-67")
 activate Ctrl
 Ctrl -> Spot : isAvailable()
 activate Spot
-Spot --> Ctrl : available
+Spot --> Ctrl : available, version
 deactivate Spot
 
 alt available == true
